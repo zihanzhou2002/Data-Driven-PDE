@@ -1,4 +1,5 @@
 # Data-Driven Discovery of Partial Differential Equations
+
 Partial Differential Equations (PDEs) play a pivotal role in understanding numerous natural phenomena. These equations describe how quantities change over space and time, and they are vital in fields ranging from physics to biology.
 
 Traditionally, deriving these equations has required a comprehensive grasp of the phenomena in question. However, there are systems so intricate that deducing a PDE based solely on theoretical understanding becomes daunting.
