@@ -9,10 +9,13 @@ This project investigates an alternative approach: the discovery of PDEs through
 Three particular types of PDEs were chosen for this exploration:
 
 **1. The Advection Equation:** This equation describes the transportation of some quantity by a flow. Imagine a dye being spread by a moving fluid; the advection equation would help us understand how the dye moves with the fluid.
+![adv_exact3d (1)](https://github.com/zihanzhou2002/Data-Driven-PDE/assets/108368157/5ce3df5b-dbb5-421d-8ab4-c35ea7426efe)
 
 **2. The Diffusion Equation:** This pertains to how a certain quantity spreads out over time. Think of a drop of ink in water; the diffusion equation would capture how the ink disperses.
+![diff_exactS3d (2)](https://github.com/zihanzhou2002/Data-Driven-PDE/assets/108368157/8291ebb9-ffd7-41a4-836f-f3be11045f4e)
 
 **3. The Burgers' Equation:** A combination of the advection and diffusion equations, the Burgers' equation has significance in fluid mechanics. It's a simplified model for studying phenomena like shock waves.
+![Burger3d_002 (1)](https://github.com/zihanzhou2002/Data-Driven-PDE/assets/108368157/189587f9-2f54-487a-8740-eacebf248c48)
 
 For this project, the [PDE-FIND](https://github.com/snagcliffs/PDE-FIND/blob/master/PDE_FIND.py) program was employed. This tool, developed by Samuel Rudy, aims at identifying PDEs based on data. It's rooted in the work documented his research paper ["Data Driven Discovery of Partial Differential Equations"](https://github.com/snagcliffs/PDE-FIND/blob/master/sci_adv.pdf) that delves into the data-driven discovery of differential equations.
 
